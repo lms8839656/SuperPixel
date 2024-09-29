@@ -1,0 +1,6 @@
+﻿  MFCApplication1.cpp
+  MFCApplication1Doc.cpp
+  MFCApplication1View.cpp
+E:\머학\머학3-1학기\응용프로그래밍\텀프\응용프로그램 2조\MFCApplication1\MFCApplication1View.cpp(16,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'opencv2/opencv.hpp': No such file or directory
+  MainFrm.cpp
+  코드를 생성하고 있습니다...

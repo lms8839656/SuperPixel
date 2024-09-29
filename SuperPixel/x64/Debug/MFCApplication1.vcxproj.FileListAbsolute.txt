@@ -1,0 +1,8 @@
+C:\teamproject\teamproject\MFCApplication1\x64\Debug\MFCApplication1.exe
+C:\Users\user\source\repos\MFCApplication1\x64\Debug\MFCApplication1.pdb
+C:\Users\user\source\repos\MFCApplication1\MFCApplication1\x64\Debug\MFCApplication1.exe
+C:\Users\user\source\repos\MFCApplication1\MFCApplication1\x64\Debug\MFCApplication1.pdb
+G:\MFC\termproject\MFCApplication1\x64\Debug\MFCApplication1.exe
+G:\MFC\termproject\MFCApplication1\x64\Debug\MFCApplication1.pdb
+E:\머학\머학3-1학기\응용프로그래밍\텀프\응용프로그램 2조\MFCApplication1\x64\Debug\MFCApplication1.exe
+E:\머학\머학3-1학기\응용프로그래밍\텀프\응용프로그램 2조\MFCApplication1\x64\Debug\MFCApplication1.pdb
